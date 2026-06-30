@@ -20,4 +20,4 @@ A Convolutional Neural Network (CNN) was built using the Keras library. The netw
 The CNN was trained on the augmented training data using the Adam optimizer and categorical cross-entropy loss. Model performance was evaluated on both training and validation sets. 
 
 ## Results:
-The CNN achieved validation accuracy of 97.6% across all 10 color categories. Testing on a new, unseen image confirmed that the trained CNN could accurately identify the dominant color based solely on pixel information. 
+The CNN achieved validation accuracy of 98.4% across all 10 color categories. Testing on a new, unseen image confirmed that the trained CNN could accurately identify the dominant color based solely on pixel information. 
