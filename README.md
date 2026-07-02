@@ -6,6 +6,8 @@ This project aims to detect and classify different colors in images using a Conv
 # Methodology:
 ## Data Collecton
 The image dataset was sourced from Roboflow , which provided the data pre-divided into training, testing, and validation subsets across ten color categories: Black, Blue, Green, Brown, Grey, Orange, Red, Violet, White, and Yellow. For simplified processing, all images from these subsets were consolidated into a single folder.
+The dataset used here is available at:
+https://universe.roboflow.com/fashion-jywg7/colors-rjazt/dataset/5
 
 ## Data Splitting
 The combined dataset (containing 1,248 images) was divided into training and validation. This resulted in 998 images for training and 250 images for validation.
